@@ -2,7 +2,7 @@
   "version": "1",
   "files": [
     {"path":"fishing_village_layout.json","size":1667,"sha":"c2a6c5405a1d3efaa077dd3bbf612ff8ca625f40ee9d829715346a126d5013ae"},
-    {"path":"socials.cfg","size":78,"sha":"94bcd926e6534dabb45dd273319a7f3cee9073cc337de745fbebf7f3cf780f4c"},
+    {"path":"socials.cfg","size":165,"sha":"91fbef005797257ce99eebcaace2185c324e88edc9a02be96c36cb555653aa56"},
     {"path":"techtree.cfg","size":7366,"sha":"0533c55b07aa041027c02196aa47ecbb0531ae3c19c8e39d823103d317e644ad"},
     {"path":"cfg/keys_default.cfg","size":662,"sha":"5cd7b90994beb45f7e35ec1a36ac489dded828fddb487583b95c87f1cfe0a8fe"},
     {"path":"ui/webrust.jpg","size":428592,"sha":"20be80296c873237f87df98303dadb64e52ed63c6d2f41e49895bd9e3663c7f8"},
